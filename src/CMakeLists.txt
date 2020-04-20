@@ -1,0 +1,22 @@
+add_executable(SomeRPG
+        main.cpp
+        functions.h
+        game.cpp
+        game.h
+        character.cpp
+        character.h
+        item.cpp
+        item.h
+        inventory.cpp
+        inventory.h
+        weapon.cpp
+        weapon.h
+        armor.cpp
+        armor.h
+        enemy.cpp
+        enemy.h
+        event.cpp
+        event.h
+        puzzle.cpp
+        puzzle.h
+        dynArr.h)
